@@ -1,6 +1,6 @@
 ## Projeto CoffeePausa
 
-O Projeto CoffeePausa tem como objetivo mostrar a lógica necessária para que seja que seja possível com que um cliente escolha seu tipo preferido de café.
+O Projeto CoffeePausa tem como objetivo mostrar a lógica necessária para que seja que seja possível com que um sistema possibilite com maestria um cliente escolher seu tipo preferido de café.
 
 ## Linguagem usada e sua estrutura
 
