@@ -4,7 +4,7 @@ O Projeto CoffeePausa tem como objetivo mostrar a lógica necessária para que s
 
 ## Linguagem usada e sua estrutura
 
-O programa todo foi desenvolvido na linguagem Java. Sua estrutura segue todos os príncipios da programação orientada a objetos, que sãp:
+O programa todo foi desenvolvido na linguagem Java. Sua estrutura segue todos os príncipios da programação orientada a objetos, que são:
 
 - `Encapsulamento`
 - `Herança`
